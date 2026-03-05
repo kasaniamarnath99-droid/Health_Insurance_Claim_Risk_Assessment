@@ -1,9 +1,9 @@
+streamlit==1.32.2
 pandas
 numpy
 scikit-learn
-matplotlib
-seaborn
-streamlit
 joblib
+matplotlib
 shap
-plotly
+altair==4.2.2
+plotly==5.20.0
